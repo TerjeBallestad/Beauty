@@ -3,14 +3,4 @@
 	"EngineAssociation": "4.20",
 	"Category": "",
 	"Description": "",
-	"Plugins": [
-		{
-<<<<<<< HEAD
-			"Name": "ApexDestruction",
-=======
-			"Name": "FMODStudio",
->>>>>>> c9fa67e15e7bc06703c52d01879d5237ae46f46a
-			"Enabled": true
-		}
-	]
 }
